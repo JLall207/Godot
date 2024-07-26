@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bnt27unuox1wo"
+path="res://.godot/imported/Trap_02_Spikes.obj-010f35620f8f7bd98726d03bb8d36aab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Trap_02_Spikes.obj-010f35620f8f7bd98726d03bb8d36aab.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack/OBJ/Trap_02_Spikes.obj"
+dest_files=["res://.godot/imported/Trap_02_Spikes.obj-010f35620f8f7bd98726d03bb8d36aab.mesh", "res://.godot/imported/Trap_02_Spikes.obj-010f35620f8f7bd98726d03bb8d36aab.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

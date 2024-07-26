@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cx4pvk5byriin"
+path="res://.godot/imported/Fortress_Fences_Complete_3x3.obj-09533c92708c6a3329dca8823d9fc6cb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Fortress_Fences_Complete_3x3.obj-09533c92708c6a3329dca8823d9fc6cb.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Fortress Asset Pack/OBJ/Fortress_Fences_Complete_3x3.obj"
+dest_files=["res://.godot/imported/Fortress_Fences_Complete_3x3.obj-09533c92708c6a3329dca8823d9fc6cb.mesh", "res://.godot/imported/Fortress_Fences_Complete_3x3.obj-09533c92708c6a3329dca8823d9fc6cb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

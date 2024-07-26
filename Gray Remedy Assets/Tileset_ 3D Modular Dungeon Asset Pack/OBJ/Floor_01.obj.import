@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dcpbpkjyi5lsl"
+path="res://.godot/imported/Floor_01.obj-631bd6f2b8115553555eed2ea42035c9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Floor_01.obj-631bd6f2b8115553555eed2ea42035c9.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack/OBJ/Floor_01.obj"
+dest_files=["res://.godot/imported/Floor_01.obj-631bd6f2b8115553555eed2ea42035c9.mesh", "res://.godot/imported/Floor_01.obj-631bd6f2b8115553555eed2ea42035c9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

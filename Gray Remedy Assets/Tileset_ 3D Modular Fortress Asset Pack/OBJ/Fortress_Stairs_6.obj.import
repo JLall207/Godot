@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://4hvqriv8mrwl"
+path="res://.godot/imported/Fortress_Stairs_6.obj-572de6d594d3c5cad380e22c61e8ea7c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Fortress_Stairs_6.obj-572de6d594d3c5cad380e22c61e8ea7c.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Fortress Asset Pack/OBJ/Fortress_Stairs_6.obj"
+dest_files=["res://.godot/imported/Fortress_Stairs_6.obj-572de6d594d3c5cad380e22c61e8ea7c.mesh", "res://.godot/imported/Fortress_Stairs_6.obj-572de6d594d3c5cad380e22c61e8ea7c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

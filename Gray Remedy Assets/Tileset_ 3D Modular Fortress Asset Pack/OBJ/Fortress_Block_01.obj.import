@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6p0s8k756np0"
+path="res://.godot/imported/Fortress_Block_01.obj-1706e48d18b5bf8b81b12f469a484fee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Fortress_Block_01.obj-1706e48d18b5bf8b81b12f469a484fee.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Fortress Asset Pack/OBJ/Fortress_Block_01.obj"
+dest_files=["res://.godot/imported/Fortress_Block_01.obj-1706e48d18b5bf8b81b12f469a484fee.mesh", "res://.godot/imported/Fortress_Block_01.obj-1706e48d18b5bf8b81b12f469a484fee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

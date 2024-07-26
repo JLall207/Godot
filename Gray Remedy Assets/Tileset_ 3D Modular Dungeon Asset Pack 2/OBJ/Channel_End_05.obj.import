@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cxlfie6xd3dm1"
+path="res://.godot/imported/Channel_End_05.obj-567ed2b077d1a845dcde773648db859b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Channel_End_05.obj-567ed2b077d1a845dcde773648db859b.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack 2/OBJ/Channel_End_05.obj"
+dest_files=["res://.godot/imported/Channel_End_05.obj-567ed2b077d1a845dcde773648db859b.mesh", "res://.godot/imported/Channel_End_05.obj-567ed2b077d1a845dcde773648db859b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

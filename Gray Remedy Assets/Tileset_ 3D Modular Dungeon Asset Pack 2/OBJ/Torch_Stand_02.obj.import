@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cvhwdsuhjth3c"
+path="res://.godot/imported/Torch_Stand_02.obj-9de28499459e3095e5e2033a04f1092d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Torch_Stand_02.obj-9de28499459e3095e5e2033a04f1092d.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack 2/OBJ/Torch_Stand_02.obj"
+dest_files=["res://.godot/imported/Torch_Stand_02.obj-9de28499459e3095e5e2033a04f1092d.mesh", "res://.godot/imported/Torch_Stand_02.obj-9de28499459e3095e5e2033a04f1092d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

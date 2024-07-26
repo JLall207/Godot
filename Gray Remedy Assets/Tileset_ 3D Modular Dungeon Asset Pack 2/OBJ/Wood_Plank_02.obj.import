@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://m6wsor54euat"
+path="res://.godot/imported/Wood_Plank_02.obj-082cea3a4f67c27778e5290f8f97b34b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wood_Plank_02.obj-082cea3a4f67c27778e5290f8f97b34b.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack 2/OBJ/Wood_Plank_02.obj"
+dest_files=["res://.godot/imported/Wood_Plank_02.obj-082cea3a4f67c27778e5290f8f97b34b.mesh", "res://.godot/imported/Wood_Plank_02.obj-082cea3a4f67c27778e5290f8f97b34b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

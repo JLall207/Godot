@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://kajy7tj5qv33"
+path="res://.godot/imported/Pillar_05.obj-a2aa5eab1a28721a07e3336098c5f1b1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Pillar_05.obj-a2aa5eab1a28721a07e3336098c5f1b1.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack 2/OBJ/Pillar_05.obj"
+dest_files=["res://.godot/imported/Pillar_05.obj-a2aa5eab1a28721a07e3336098c5f1b1.mesh", "res://.godot/imported/Pillar_05.obj-a2aa5eab1a28721a07e3336098c5f1b1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dk38k528p0gfn"
+path="res://.godot/imported/Window_03.obj-e7a93d4dd3c1f08df22bce5535f8cdce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Window_03.obj-e7a93d4dd3c1f08df22bce5535f8cdce.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack 2/OBJ/Window_03.obj"
+dest_files=["res://.godot/imported/Window_03.obj-e7a93d4dd3c1f08df22bce5535f8cdce.mesh", "res://.godot/imported/Window_03.obj-e7a93d4dd3c1f08df22bce5535f8cdce.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2r7dgu7ti10l"
+path="res://.godot/imported/Torch_02.obj-d9560da5d6ec4d63696e0f6827f98a3b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Torch_02.obj-d9560da5d6ec4d63696e0f6827f98a3b.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack/OBJ/Torch_02.obj"
+dest_files=["res://.godot/imported/Torch_02.obj-d9560da5d6ec4d63696e0f6827f98a3b.mesh", "res://.godot/imported/Torch_02.obj-d9560da5d6ec4d63696e0f6827f98a3b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

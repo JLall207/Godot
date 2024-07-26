@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dlhwc5ot1y3e4"
+path="res://.godot/imported/Flag_11.obj-58e10c9de7daf06d69cb06feb578b55e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Flag_11.obj-58e10c9de7daf06d69cb06feb578b55e.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack/OBJ/Flag_11.obj"
+dest_files=["res://.godot/imported/Flag_11.obj-58e10c9de7daf06d69cb06feb578b55e.mesh", "res://.godot/imported/Flag_11.obj-58e10c9de7daf06d69cb06feb578b55e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

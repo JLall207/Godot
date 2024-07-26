@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dnp40qqcic5d1"
+path="res://.godot/imported/Fortress_Window_03.obj-951fc40f120409263ef3d50d06273471.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Fortress_Window_03.obj-951fc40f120409263ef3d50d06273471.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Fortress Asset Pack/OBJ/Fortress_Window_03.obj"
+dest_files=["res://.godot/imported/Fortress_Window_03.obj-951fc40f120409263ef3d50d06273471.mesh", "res://.godot/imported/Fortress_Window_03.obj-951fc40f120409263ef3d50d06273471.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

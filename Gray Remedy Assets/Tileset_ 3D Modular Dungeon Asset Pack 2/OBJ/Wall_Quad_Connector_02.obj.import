@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d3krs0cpk0y5l"
+path="res://.godot/imported/Wall_Quad_Connector_02.obj-b45460f79b278320561b2db3e1dbe154.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wall_Quad_Connector_02.obj-b45460f79b278320561b2db3e1dbe154.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack 2/OBJ/Wall_Quad_Connector_02.obj"
+dest_files=["res://.godot/imported/Wall_Quad_Connector_02.obj-b45460f79b278320561b2db3e1dbe154.mesh", "res://.godot/imported/Wall_Quad_Connector_02.obj-b45460f79b278320561b2db3e1dbe154.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7nit8dqiuyxx"
+path="res://.godot/imported/Fortress_Flag_S_05.obj-4e8f729a6d1b24f61bc61effce88ceff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Fortress_Flag_S_05.obj-4e8f729a6d1b24f61bc61effce88ceff.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Fortress Asset Pack/OBJ/Fortress_Flag_S_05.obj"
+dest_files=["res://.godot/imported/Fortress_Flag_S_05.obj-4e8f729a6d1b24f61bc61effce88ceff.mesh", "res://.godot/imported/Fortress_Flag_S_05.obj-4e8f729a6d1b24f61bc61effce88ceff.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

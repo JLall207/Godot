@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bs2tav2t3anya"
+path="res://.godot/imported/Wall_Door_02.obj-a865e67694b06cafda365af598d2eab9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wall_Door_02.obj-a865e67694b06cafda365af598d2eab9.mesh"]
+
+source_file="res://Gray Remedy Assets/Tileset_ 3D Modular Dungeon Asset Pack/OBJ/Wall_Door_02.obj"
+dest_files=["res://.godot/imported/Wall_Door_02.obj-a865e67694b06cafda365af598d2eab9.mesh", "res://.godot/imported/Wall_Door_02.obj-a865e67694b06cafda365af598d2eab9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
